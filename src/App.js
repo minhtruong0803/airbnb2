@@ -1,24 +1,38 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+// import Baitap3 from "./baitap3";
+// import Baitap1 from "./baitap1";
+// import Baitap2 from "./baitap2";
+// import RenderingElements from "./rendering-elements";
+// import HandlingEvents from "./handling-events";
+// import State from "./state";
+// import ExampleState from "./state/example";
+// import ListKeys from "./list-keys";
+// import Communicate from "./communicate";
+// import LiftingStateUpCart from "./shopping-cart";
+// import Home from "./user-management";
+// import Home from "./user-management-redux";
+// import FormValidation from "./form-validation/FormValidation";
+// import LifeCycle from "./lifecycle/LifeCycle";
+import ListMovie from "./list-movie";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      {/* <Baitap1 /> */}
+      {/* <Baitap2 /> */}
+      {/* <Baitap3 /> */}
+      {/* <RenderingElements /> */}
+      {/* <HandlingEvents /> */}
+      {/* <State /> */}
+      {/* <ExampleState /> */}
+      {/* <ListKeys /> */}
+      {/* <Communicate /> */}
+      {/* <LiftingStateUpCart /> */}
+      {/* <Home /> */}
+      {/* <FormValidation /> */}
+      {/* <LifeCycle /> */}
+      <ListMovie />
+    </>
   );
 }
 

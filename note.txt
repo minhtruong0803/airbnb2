@@ -1,0 +1,36 @@
+===Buổi 1===
+
+*Component:
+    - Stateful Component: class
+    - Stateless Component: function
+
+
+
+===Buổi 2===
+    Rendering Element
+    Rendering Condition
+    Handling Event
+    State: Component render lại lần mới => render chạy lại khi state thay đổi
+    List Keys
+
+
+===Buổi 3===
+    List Keys
+    Communicate
+        - Props: data truyền từ Component cha => con
+        - Lifting state up: data truyền từ compunent con => cha
+
+===Buổi 4===
+    Shopping Cart
+
+===Buổi 5===
+    Usermanagement
+    Form React
+
+===Buổi 6===
+    LifeCycle
+    Redux: store
+
+===Buổi 9===
+    Call Api
+    Middleware Async Action: redux thunk <=> redux saga
